@@ -1,6 +1,6 @@
 # 🚀 Containerized FastAPI + PostgreSQL Service
 
-[![CI Pipeline](https://github.com/example/fastapi-postgres-service/actions/workflows/ci.yml/badge.svg)](https://github.com/example/fastapi-postgres-service/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/abhishekbhartiind/fastapi-postgres-api/actions/workflows/ci.yml/badge.svg)](https://github.com/abhishekbhartiind/fastapi-postgres-api/actions/workflows/ci.yml)
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
